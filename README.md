@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App]
+A  simple restaurant pizza website design using React JS , React-Router, Bootstrap, React-Icons, Css,Yarn.
+Live version available here: https://clever-booth-0d7ec5.netlify.app/
 
 ## Available Scripts
 
